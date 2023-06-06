@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Buckaroo-Rene/.github/blob/main/Buckaroo_header.png" position="center">
+  <img src="https://github.com/buckaroo-it/.github/assets/105488705/5fe8408a-fcbc-497b-a2fc-46e5113fead1" position="center"><br>
 | EN: <a href="https://www.buckaroo.eu/">www.buckaroo.eu</a> | NL: <a href="https://www.buckaroo.nl/">www.buckaroo.nl</a> |
 </p>
 
