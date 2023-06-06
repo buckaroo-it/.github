@@ -6,14 +6,15 @@
 # 🎉 Welcome to Buckaroo
 ### Your strategic payment partner 💳.<br> For online payments, subscription solutions, marketplaces split-payments and more.
 
-In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later on more than 40+ payment methods and gift cards where added. We are now a strategic payment partner for more than 5,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at improvements that can be implemented in the payment process.
+In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later on more than 40+ payment methods and gift cards where added. We are now a strategic payment partner for more than 30,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at improvements that can be implemented in the payment process.
 
 ### Most chosen payment solutions 💸:
 - Flexible checkout with the choice of national and international payment methods.
 - Custom payment requests and payment reminders.
 - Automatic debtor management with Credit Management.
 - Collecting and managing subscriptions.
-- Ready-made integrations (Plugins, Apps & SDK's).
+- Ready-to-use integrations (Plugins, Apps & SDK's).
+- Point of Sale solutions with [Sepay by Buckaroo](https://www.sepay.nl).
 
 ### 👩‍💻 No Buckaroo account yet?
 - [EN - Click here to create a Buckaroo account](https://www.buckaroo.eu/start)<br>
@@ -21,12 +22,13 @@ In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A littl
 
 If you have any feedback or questions, create an issue or contact the [Buckaroo support team](mailto:support@buckaroo.nl).
 
-<br>  
+<br>
 
 ## 📃Documentation Pages:
 - 🏠 [Buckaroo Homepage](https://buckaroo.eu)
 - 📚 [Buckaroo Docs](https://docs.buckaroo.io)
 - 🧪 [Buckaroo Github page](https://github.com/buckaroo-it)
+- 💳 [Sepay by Buckaroo (POS solutions)](https://www.sepay.nl)
 
 <br>
 
@@ -44,7 +46,7 @@ If you have any feedback or questions, create an issue or contact the [Buckaroo 
 
 <br>
 
-## 🚀 Ready made integrations:
+## 🚀 Ready-to-use integrations:
   
 ### :electric_plug: Plugins
 | Description | Latest version | Documentation | Downloads |
