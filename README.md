@@ -4,7 +4,7 @@
 </p>
 
 # 🎉 Welcome to Buckaroo
-### Your strategic payment partner 💳.<br> For online payments, subscription solutions, marketplaces split-payments and more.
+### Your strategic payment partner 💳.<br> For online and offline payments, subscription solutions, marketplaces split-payments and more.
 
 In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later on more than 40+ payment methods and gift cards where added. We are now a strategic payment partner for more than 30,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at improvements that can be implemented in the payment process.
 
