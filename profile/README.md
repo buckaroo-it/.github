@@ -70,6 +70,7 @@ If you have any feedback or questions, create an issue or contact the [Buckaroo 
 ### :iphone: Apps
 | Description | Latest version | Documentation | Downloads |
 |----------|:-------------:|:-------------:|:-------------:|
+| [CCV Shop](https://docs.buckaroo.io/docs/ccv-shop)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://docs.buckaroo.io/docs/ccv-shop)| [![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/ccv-shop)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://docs.buckaroo.io/docs/ccv-shop)|
 | [Lightspeed](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)| [![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/lightspeed)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)|
 | [BigCommerce](https://www.bigcommerce.com/apps/buckaroo-payments/)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.bigcommerce.com/apps/buckaroo-payments/)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/bigcommerce)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://www.bigcommerce.com/apps/buckaroo-payments/)|
 
