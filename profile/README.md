@@ -74,8 +74,8 @@ Simplify and enhance your payment processing experience with our solutions for v
 
 ### :abacus: Additional Plugins
 
-Enhance the functionality of your Magento 2 store by installing additional Buckaroo plugins.
-These plugins seamlessly integrate with our Magento 2 payments plugin, providing specialized features to cater to your specific needs:
+Enhance the functionality of your Magento 2 store by installing additional Buckaroo plugins.<br>
+These plugins seamlessly integrate with our Magento 2 payments plugin, providing specialized features to cater to your specific needs:<br>
 | [Hyvä Checkout](https://github.com/buckaroo-it/Magento2_Hyva_Checkout) | [Hyvä React Checkout](https://github.com/buckaroo-it/Magento2_Hyva) | [GraphQL](https://github.com/buckaroo-it/Magento2_GraphQL) |
 | --- | --- | --- |
 | <a href="https://github.com/buckaroo-it/Magento2_Hyva_Checkout" target="_blank"><img src="https://www.buckaroo.nl/media/2cwfej1a/magento2_hyvacheckout_icon.png" alt="Hyvä Checkout" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_Hyva" target="_blank"><img src="https://www.buckaroo.nl/media/cnxajnxp/magento2_hyvareactcheckout_icon.png" alt="Hyvä React Checkout" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_GraphQL" target="_blank"><img src="https://www.buckaroo.nl/media/g1lbrcoe/magento2_graphql_icon.png" alt="GraphQL" width="150"></a> |
@@ -87,8 +87,8 @@ These plugins seamlessly integrate with our Magento 2 payments plugin, providing
 
 ### :iphone: Apps
 
-Discover a range of Buckaroo payment apps designed to seamlessly integrate with various eCommerce platforms.
-These apps are tailored to enhance your payment processing capabilities and provide a streamlined checkout experience:
+Discover a range of Buckaroo payment apps designed to seamlessly integrate with various eCommerce platforms.<br>
+These apps are tailored to enhance your payment processing capabilities and provide a streamlined checkout experience:<br>
 | [BigCommerce](https://www.bigcommerce.com/apps/buckaroo-payments/) | [CCV Shop](https://docs.buckaroo.io/docs/ccv-shop) | [Lightspeed](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/) |
 | --- | --- | --- |
 | <a href="https://www.bigcommerce.com/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/niypwv3q/bigcommerce_icon.png" alt="BigCommerce" width="150"></a> | <a href="https://docs.buckaroo.io/docs/ccv-shop" target="_blank"><img src="https://www.buckaroo.nl/media/yixbz0su/ccvshop_icon.png" alt="CCV Shop" width="150"></a> | <a href="https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/ytdjd1zs/lightspeed_icon.png" alt="Lightspeed" width="150"></a> |
@@ -104,6 +104,6 @@ You can find them in almost every Github repository.
 <br>
 
 ## 💼 Want to be part of the Buckaroo team?
-We are regularly looking for new colleagues to keep growing. Grow with us and take a look at our job offers.<br>
-:point_right: [EN - Click here for the English overview](https://www.buckaroo.eu/about-us/vacancies)<br>
-:point_right: [NL - Klik hier voor een Nederlandstalig overzicht](https://www.buckaroo.nl/over-ons/vacatures)<br>
+We are regularly looking for new colleagues to keep growing.<br>
+Grow with us and take a look at our job offers.<br>
+:point_right: [Click here for more information](https://www.buckaroo.nl/over-ons/vacatures).<br>
