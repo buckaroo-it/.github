@@ -65,11 +65,11 @@ Explore a suite of robust payment plugins by Buckaroo, seamlessly integrated wit
 Simplify and enhance your payment processing experience with our solutions for various platforms:
 | [Magento 2](https://github.com/buckaroo-it/Magento2) | [Shopware 6](https://github.com/buckaroo-it/Shopware_6) | [WooCommerce](https://nl.wordpress.org/plugins/wc-buckaroo-bpe-gateway/) |
 | --- | --- | --- |
-| <a href="https://github.com/buckaroo-it/Magento2" target="_blank"><img src="https://www.buckaroo.nl/media/3473/magento2_icon.png" alt="Magento 2" width="150"></a> | <a href="https://github.com/buckaroo-it/Shopware_6" target="_blank"><img src="https://www.buckaroo.nl/media/3476/shopware6_icon.png" alt="Shopware 6" width="150"></a> | <a href="https://nl.wordpress.org/plugins/wc-buckaroo-bpe-gateway/" target="_blank"><img src="https://www.buckaroo.nl/media/3477/woocommerce_icon.png" alt="WooCommerce" width="150"></a> |
+| <a href="https://github.com/buckaroo-it/Magento2" target="_blank"><img src="https://www.buckaroo.nl/media/namlxlbp/magento2_icon.png" alt="Magento 2" width="150"></a> | <a href="https://github.com/buckaroo-it/Shopware_6" target="_blank"><img src="https://www.buckaroo.nl/media/x5wfa03p/shopware6_icon.png" alt="Shopware 6" width="150"></a> | <a href="https://nl.wordpress.org/plugins/wc-buckaroo-bpe-gateway/" target="_blank"><img src="https://www.buckaroo.nl/media/drxmr5f1/woocommerce_icon.png" alt="WooCommerce" width="150"></a> |
 
 | [Magento 1](https://github.com/buckaroo-it/Magento) | [Shopware 5](https://github.com/buckaroo-it/Shopware_5) | [PrestaShop](https://github.com/buckaroo-it/PrestaShop) |
 | --- | --- | --- |
-| <a href="https://github.com/buckaroo-it/Magento" target="_blank"><img src="https://www.buckaroo.nl/media/3472/magento1_icon.png" alt="Magento 1" width="150"></a> | <a href="https://github.com/buckaroo-it/Shopware_5" target="_blank"><img src="https://www.buckaroo.nl/media/3475/shopware5_icon.png" alt="Shopware 5" width="150"></a> | <a href="https://github.com/buckaroo-it/PrestaShop" target="_blank"><img src="https://www.buckaroo.nl/media/3474/prestashop_icon.png" alt="PrestaShop" width="150"></a> |
+| <a href="https://github.com/buckaroo-it/Magento" target="_blank"><img src="https://www.buckaroo.nl/media/1xjlzaap/magento1_icon.png" alt="Magento 1" width="150"></a> | <a href="https://github.com/buckaroo-it/Shopware_5" target="_blank"><img src="https://www.buckaroo.nl/media/gmbhr3dr/shopware5_icon.png" alt="Shopware 5" width="150"></a> | <a href="https://github.com/buckaroo-it/PrestaShop" target="_blank"><img src="https://www.buckaroo.nl/media/whcdx04d/prestashop_icon.png" alt="PrestaShop" width="150"></a> |
 <br>
 
 ### :abacus: Additional Plugins
@@ -78,11 +78,11 @@ Enhance the functionality of your Magento 2 store by installing additional Bucka
 These plugins seamlessly integrate with our Magento 2 payments plugin, providing specialized features to cater to your specific needs:<br>
 | [Hyvä Checkout](https://github.com/buckaroo-it/Magento2_Hyva_Checkout) | [Hyvä React Checkout](https://github.com/buckaroo-it/Magento2_Hyva) | [GraphQL](https://github.com/buckaroo-it/Magento2_GraphQL) |
 | --- | --- | --- |
-| <a href="https://github.com/buckaroo-it/Magento2_Hyva_Checkout" target="_blank"><img src="https://www.buckaroo.nl/media/2cwfej1a/magento2_hyvacheckout_icon.png" alt="Hyvä Checkout" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_Hyva" target="_blank"><img src="https://www.buckaroo.nl/media/cnxajnxp/magento2_hyvareactcheckout_icon.png" alt="Hyvä React Checkout" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_GraphQL" target="_blank"><img src="https://www.buckaroo.nl/media/g1lbrcoe/magento2_graphql_icon.png" alt="GraphQL" width="150"></a> |
+| <a href="https://github.com/buckaroo-it/Magento2_Hyva_Checkout" target="_blank"><img src="https://www.buckaroo.nl/media/33gf24ru/magento2_hyvacheckout_icon.png" alt="Hyvä Checkout" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_Hyva" target="_blank"><img src="https://www.buckaroo.nl/media/iyvnqp2k/magento2_hyvareactcheckout_icon.png" alt="Hyvä React Checkout" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_GraphQL" target="_blank"><img src="https://www.buckaroo.nl/media/w0sdhkjd/magento2_graphql_icon.png" alt="GraphQL" width="150"></a> |
 
 | [Second Chance](https://github.com/buckaroo-it/Magento2_SecondChance) | [Google Analytics](https://github.com/buckaroo-it/Magento2_Analytics) |
 | --- | --- |
-| <a href="https://github.com/buckaroo-it/Magento2_SecondChance" target="_blank"><img src="https://www.buckaroo.nl/media/pamb54ho/magento2_secondchance_icon.png" alt="Second Chance" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_Analytics" target="_blank"><img src="https://www.buckaroo.nl/media/ed1npm2b/magento2_googleanalytics_icon.png" alt="Google Analytics" width="150"></a> |
+| <a href="https://github.com/buckaroo-it/Magento2_SecondChance" target="_blank"><img src="https://www.buckaroo.nl/media/n2qpue0z/magento2_secondchance_icon.png" alt="Second Chance" width="150"></a> | <a href="https://github.com/buckaroo-it/Magento2_Analytics" target="_blank"><img src="https://www.buckaroo.nl/media/osphsp1u/magento2_googleanalytics_icon.png" alt="Google Analytics" width="150"></a> |
 <br>
 
 ### :iphone: Apps
@@ -91,7 +91,7 @@ Discover a range of Buckaroo payment apps designed to seamlessly integrate with 
 These apps are tailored to enhance your payment processing capabilities and provide a streamlined checkout experience:<br>
 | [BigCommerce](https://www.bigcommerce.com/apps/buckaroo-payments/) | [CCV Shop](https://docs.buckaroo.io/docs/ccv-shop) | [Lightspeed](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/) |
 | --- | --- | --- |
-| <a href="https://www.bigcommerce.com/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/niypwv3q/bigcommerce_icon.png" alt="BigCommerce" width="150"></a> | <a href="https://docs.buckaroo.io/docs/ccv-shop" target="_blank"><img src="https://www.buckaroo.nl/media/yixbz0su/ccvshop_icon.png" alt="CCV Shop" width="150"></a> | <a href="https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/ytdjd1zs/lightspeed_icon.png" alt="Lightspeed" width="150"></a> |
+| <a href="https://www.bigcommerce.com/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/lcakbhku/bigcommerce_icon.png" alt="BigCommerce" width="150"></a> | <a href="https://docs.buckaroo.io/docs/ccv-shop" target="_blank"><img src="https://www.buckaroo.nl/media/0yrpw1sn/ccvshop_icon.png" alt="CCV Shop" width="150"></a> | <a href="https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/rjvdcn3y/lightspeed_icon.png" alt="Lightspeed" width="150"></a> |
 <br>
 
 ## 📜 Feel free to contribute
