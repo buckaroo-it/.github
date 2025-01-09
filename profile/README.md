@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07772419-ac17-4cfc-9f11-1f8eec5fa10b" width="50%" position="center"><br>
+  <img src="https://www.buckaroo.nl/media/q1alpnxs/buckaroo_github.png" width="50%" position="center"><br>
 | EN: <a href="https://www.buckaroo.eu/">www.buckaroo.eu</a> | NL: <a href="https://www.buckaroo.nl/">www.buckaroo.nl</a> |
 </p>
 
@@ -92,6 +92,10 @@ These apps are tailored to enhance your payment processing capabilities and prov
 | [BigCommerce](https://www.bigcommerce.com/apps/buckaroo-payments/) | [CCV Shop](https://docs.buckaroo.io/docs/ccv-shop) | [Lightspeed](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/) |
 | --- | --- | --- |
 | <a href="https://www.bigcommerce.com/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/lcakbhku/bigcommerce_icon.png" alt="BigCommerce" width="150"></a> | <a href="https://docs.buckaroo.io/docs/ccv-shop" target="_blank"><img src="https://www.buckaroo.nl/media/0yrpw1sn/ccvshop_icon.png" alt="CCV Shop" width="150"></a> | <a href="https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/rjvdcn3y/lightspeed_icon.png" alt="Lightspeed" width="150"></a> |
+
+| [Ecwid](https://www.ecwid.com/apps/featured/buckaroo-payments) | [Zapier](https://zapier.com/apps/buckaroo-1/integrations) |
+| --- | --- |
+| <a href="https://www.ecwid.com/apps/featured/buckaroo-payments" target="_blank"><img src="https://www.buckaroo.nl/media/0u2bwsqe/ecwid_icon.png" alt="Ecwid" width="150"></a> | <a href="https://zapier.com/apps/buckaroo-1/integrations" target="_blank"><img src="https://www.buckaroo.nl/media/rfjhtuja/zapier_icon.png" alt="Zapier" width="150"></a> |
 <br>
 
 ## 📜 Feel free to contribute
