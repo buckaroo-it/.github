@@ -65,7 +65,7 @@ Explore a suite of robust payment plugins by Buckaroo, seamlessly integrated wit
 Simplify and enhance your payment processing experience with our solutions for various platforms:
 | [Magento 2](https://github.com/buckaroo-it/Magento2) | [Shopware 6](https://github.com/buckaroo-it/Shopware_6) | [WooCommerce](https://nl.wordpress.org/plugins/wc-buckaroo-bpe-gateway/) |
 | --- | --- | --- |
-| <a href="https://github.com/buckaroo-it/Magento2" target="_blank"><img src="https://www.buckaroo.nl/media/namlxlbp/magento2_icon.png" alt="Magento 2" width="150"></a> | <a href="https://github.com/buckaroo-it/Shopware_6" target="_blank"><img src="https://www.buckaroo.nl/media/x5wfa03p/shopware6_icon.png" alt="Shopware 6" width="150"></a> | <a href="https://nl.wordpress.org/plugins/wc-buckaroo-bpe-gateway/" target="_blank"><img src="https://www.buckaroo.nl/media/drxmr5f1/woocommerce_icon.png" alt="WooCommerce" width="150"></a> |
+| <a href="https://github.com/buckaroo-it/Magento2" target="_blank"><img src="https://www.buckaroo.nl/media/namlxlbp/magento2_icon.png" alt="Magento 2" width="150"></a> | <a href="https://github.com/buckaroo-it/Shopware_6" target="_blank"><img src="https://www.buckaroo.nl/media/x5wfa03p/shopware6_icon.png" alt="Shopware 6" width="150"></a> | <a href="https://nl.wordpress.org/plugins/wc-buckaroo-bpe-gateway/" target="_blank"><img src="https://www.buckaroo.nl/media/4zdjmse1/woocommerce_icon.png" alt="WooCommerce" width="150"></a> |
 
 | [Magento 1](https://github.com/buckaroo-it/Magento) | [Shopware 5](https://github.com/buckaroo-it/Shopware_5) | [PrestaShop](https://github.com/buckaroo-it/PrestaShop) |
 | --- | --- | --- |
@@ -93,9 +93,9 @@ These apps are tailored to enhance your payment processing capabilities and prov
 | --- | --- | --- |
 | <a href="https://www.bigcommerce.com/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/lcakbhku/bigcommerce_icon.png" alt="BigCommerce" width="150"></a> | <a href="https://docs.buckaroo.io/docs/ccv-shop" target="_blank"><img src="https://www.buckaroo.nl/media/0yrpw1sn/ccvshop_icon.png" alt="CCV Shop" width="150"></a> | <a href="https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/" target="_blank"><img src="https://www.buckaroo.nl/media/rjvdcn3y/lightspeed_icon.png" alt="Lightspeed" width="150"></a> |
 
-| [Ecwid](https://www.ecwid.com/apps/featured/buckaroo-payments) | [Zapier](https://zapier.com/apps/buckaroo-1/integrations) |
-| --- | --- |
-| <a href="https://www.ecwid.com/apps/featured/buckaroo-payments" target="_blank"><img src="https://www.buckaroo.nl/media/0u2bwsqe/ecwid_icon.png" alt="Ecwid" width="150"></a> | <a href="https://zapier.com/apps/buckaroo-1/integrations" target="_blank"><img src="https://www.buckaroo.nl/media/rfjhtuja/zapier_icon.png" alt="Zapier" width="150"></a> |
+| [Ecwid](https://www.ecwid.com/apps/featured/buckaroo-payments) | [Zapier](https://zapier.com/apps/buckaroo-1/integrations) | [Shopify](https://docs.buckaroo.io/docs/shopify) |
+| --- | --- | --- |
+| <a href="https://www.ecwid.com/apps/featured/buckaroo-payments" target="_blank"><img src="https://www.buckaroo.nl/media/0u2bwsqe/ecwid_icon.png" alt="Ecwid" width="150"></a> | <a href="https://zapier.com/apps/buckaroo-1/integrations" target="_blank"><img src="https://www.buckaroo.nl/media/rfjhtuja/zapier_icon.png" alt="Zapier" width="150"></a> | <a href="https://docs.buckaroo.io/docs/shopify" target="_blank"><img src="https://www.buckaroo.nl/media/zyxfcs2x/shopify_icon.png" alt="Shopify" width="150"></a> |
 <br>
 
 ## 📜 Feel free to contribute
